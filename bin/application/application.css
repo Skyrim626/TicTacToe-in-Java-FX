@@ -1,0 +1,130 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500;600;700&display=swap');
+
+
+* {
+	
+	-fx-font-family: 'Orbitron', Lucida Console;
+	-fx-text-fill: white;
+	-fx-font-weight: bolder;
+}
+
+#title {
+	-fx-font-size: 40px;
+}
+
+#changeTheme  {
+	-fx-font-size: 14px;
+}
+
+#changeTheme:hover  {
+	-fx-border-width: 2;
+}
+
+#playerComputerButton {
+	-fx-border-width: 2;
+	-fx-font-size: 18px;
+}
+
+#playerComputerButton:hover {
+	-fx-border-width: 3;
+}
+
+
+#playerPlayerButton {
+	-fx-border-width: 2;
+	-fx-font-size: 18px;
+}
+
+#playerPlayerButton:hover {
+	-fx-border-width: 3;
+}
+
+
+#boardOption {
+	-fx-font-size: 18px;
+	-fx-border-width: 1;
+}
+
+#boardOption:hover {
+	-fx-border-width: 2;
+}
+
+#exitButton {
+	-fx-font-size: 17px;
+}
+
+#exitButton:hover {
+	-fx-border-width: 2;
+}
+
+
+
+
+
+
+#timerLabel {
+	-fx-font-size: 20px;
+}
+
+#gameCount {
+	-fx-font-size: 20px;
+}
+
+#goBack {
+	-fx-font-size: 15px;
+}
+
+#goBack:hover {
+	-fx-border-width: 2;
+}
+
+#playerScore {
+	-fx-font-size: 30px;
+}
+
+#whosTurn {
+	-fx-font-size: 19px;
+}
+
+
+#By3x3Grid {
+	-fx-font-size: 28px;
+}
+#By3x3Grid:hover {
+	-fx-border-width: 2;
+}
+
+#By4x4Grid {
+	-fx-font-size: 20px;
+}
+
+#By4x4Grid:hover {
+	-fx-border-width: 2;
+}
+
+#By5x5Grid {
+	-fx-font-size: 17px;
+}
+
+#By5x5Grid:hover {
+	-fx-border-width: 2;
+}
+
+#playerName {
+	-fx-font-size: 15px;
+}
+
+
+#exitText {
+	-fx-font-size: 18px;
+}
+
+#rulesText {
+	-fx-font-size: 14px;
+}
+
+#gameTypeRule {
+	-fx-font-size: 30px;
+}
